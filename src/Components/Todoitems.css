@@ -1,0 +1,17 @@
+.todoitems{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 45px;
+    font-size: 30px;
+    font-weight: 600px;
+    color: white;
+}
+.todoitems-delete{
+    border-radius: 10px;
+    background: rgb(113, 195, 250);
+    color: rgb(245, 241, 241);
+    font-size: 24px;
+    font-weight: 600px;
+    cursor: pointer;
+}
